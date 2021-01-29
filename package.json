@@ -1,0 +1,20 @@
+{
+  "name": "Paimon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dbd.js": "^1.9.3",
+    "node-fetch": "^2.6.1",
+    "canvacord": "^5.0.8",
+    "express": "^4.17.1"
+  }
+}
